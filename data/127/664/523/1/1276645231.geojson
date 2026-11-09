@@ -41,7 +41,7 @@
         "gn:id":1522925
     },
     "wof:country":"KZ",
-    "wof:geomhash":"31d82c4723f3e8362abd107b2894f3a0",
+    "wof:geomhash":"4c27d7dfc3eecad4e0d198aa2662c0a0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,5 +67,5 @@
     68.63333,
     41.0
 ],
-  "geometry": {"coordinates":[68.63333,41.0],"type":"Point"}
+  "geometry": {"coordinates":[68.63333,41],"type":"Point"}
 }

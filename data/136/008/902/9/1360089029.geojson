@@ -60,7 +60,7 @@
         "wk:page":"Kokpek"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"623b6ea27569ad857c3f41fd17abb328",
+    "wof:geomhash":"cd8bd150786883c0125268189489d721",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     78.67518000000003,
     43.44793
 ],
-  "geometry": {"coordinates":[78.67518000000003,43.44793],"type":"Point"}
+  "geometry": {"coordinates":[78.67518,43.44793],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Algabas"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"a980d96b85530b6edfdddd175a845b50",
+    "wof:geomhash":"60fde9ba218c4c7ac5b124a364b0554e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     76.79956999999997,
     43.25529
 ],
-  "geometry": {"coordinates":[76.79956999999997,43.25529],"type":"Point"}
+  "geometry": {"coordinates":[76.79957,43.25529],"type":"Point"}
 }

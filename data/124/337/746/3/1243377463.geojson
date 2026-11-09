@@ -55,7 +55,7 @@
         "wk:page":"Bel%27bulak"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"fd3272fb6c6b24e9f4152c1bbfe5aac6",
+    "wof:geomhash":"8f49d5bb8f5281c098f466c786120924",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     77.09940999999998,
     43.31446
 ],
-  "geometry": {"coordinates":[77.09940999999998,43.31446],"type":"Point"}
+  "geometry": {"coordinates":[77.09941,43.31446],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Baltabay"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"725fe264d031f63abaf79755a3384f5d",
+    "wof:geomhash":"0d24bae29be51c9ba9cb3444a99bba21",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     77.54205999999998,
     43.50471
 ],
-  "geometry": {"coordinates":[77.54205999999998,43.50471],"type":"Point"}
+  "geometry": {"coordinates":[77.54206,43.50471],"type":"Point"}
 }

@@ -65,7 +65,7 @@
         "wk:page":"Karsakpay"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"2b95bbdffc7f2e34183da2271ddf32ed",
+    "wof:geomhash":"451bd469719ecd5ececb99aaec23d58b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     66.72528,
     47.84222000000001
 ],
-  "geometry": {"coordinates":[66.72528,47.84222000000001],"type":"Point"}
+  "geometry": {"coordinates":[66.72528,47.84222],"type":"Point"}
 }

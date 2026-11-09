@@ -59,7 +59,7 @@
         "wk:page":"Karakemer"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"2321a4c7209466f50e4af4e546b7f44f",
+    "wof:geomhash":"67694b4cd63c60f7f4f9ab6bb211084c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     77.61946999999998,
     43.42291
 ],
-  "geometry": {"coordinates":[77.61946999999998,43.42291],"type":"Point"}
+  "geometry": {"coordinates":[77.61947,43.42291],"type":"Point"}
 }

@@ -53,7 +53,7 @@
         "wk:page":"Karakastek"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"8af0d872ecb319f823da3c0e37602c74",
+    "wof:geomhash":"cf24c01b82d8cb93cf9a09f35fc37f4f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     76.09897,
     43.13189000000001
 ],
-  "geometry": {"coordinates":[76.09896999999999,43.13189000000001],"type":"Point"}
+  "geometry": {"coordinates":[76.09897,43.13189],"type":"Point"}
 }

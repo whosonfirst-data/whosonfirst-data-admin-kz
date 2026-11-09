@@ -68,7 +68,7 @@
         "wk:page":"Shengel%27dy"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"f721e88dfea1760f784308984467e822",
+    "wof:geomhash":"9b227b8f4bcac3d2fc743cf36d19e5ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,5 +94,5 @@
     77.46285999999998,
     43.98097
 ],
-  "geometry": {"coordinates":[77.46285999999998,43.98097],"type":"Point"}
+  "geometry": {"coordinates":[77.46286,43.98097],"type":"Point"}
 }

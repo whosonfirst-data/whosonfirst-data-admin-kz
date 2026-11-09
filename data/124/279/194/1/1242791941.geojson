@@ -72,7 +72,7 @@
         "wk:page":"Akshiy"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"9a1a7d563c3d5851353f6d371e5a8c35",
+    "wof:geomhash":"4ca3b2cb9e628f90a6bbe42c1285f8e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,5 +98,5 @@
     77.63398000000002,
     43.51498
 ],
-  "geometry": {"coordinates":[77.63398000000002,43.51498],"type":"Point"}
+  "geometry": {"coordinates":[77.63398,43.51498],"type":"Point"}
 }

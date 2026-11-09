@@ -48,7 +48,7 @@
         "wk:page":"Baganashyl"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"4bf0b1504a67e4599350f6a5497a6aa5",
+    "wof:geomhash":"0333739d2644e0133fcf25273e2cd7c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     76.91528000000002,
     43.19861
 ],
-  "geometry": {"coordinates":[76.91528000000002,43.19861],"type":"Point"}
+  "geometry": {"coordinates":[76.91528,43.19861],"type":"Point"}
 }

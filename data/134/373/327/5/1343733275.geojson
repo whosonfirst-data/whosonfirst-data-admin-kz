@@ -52,7 +52,7 @@
         "wk:page":"Koszhar"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"1f2048858abd360b8b8519bc6b61784a",
+    "wof:geomhash":"90bb582d5f1da2f787b5bdd37d746a89",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     61.78333000000001,
     46.16667
 ],
-  "geometry": {"coordinates":[61.78333000000001,46.16667],"type":"Point"}
+  "geometry": {"coordinates":[61.78333,46.16667],"type":"Point"}
 }

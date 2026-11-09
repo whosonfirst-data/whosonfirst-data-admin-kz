@@ -53,7 +53,7 @@
         "wk:page":"Kokozek"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"f6b97a0fac4d74812c124033e87fff20",
+    "wof:geomhash":"cb4b531969697499b3bc7db74a1ce4aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     76.76805999999998,
     43.3475
 ],
-  "geometry": {"coordinates":[76.76805999999998,43.3475],"type":"Point"}
+  "geometry": {"coordinates":[76.76806,43.3475],"type":"Point"}
 }

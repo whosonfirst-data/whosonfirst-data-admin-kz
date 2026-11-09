@@ -73,7 +73,7 @@
         "wk:page":"Akkaynar"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"757a739ccce1527a686fc035958cc881",
+    "wof:geomhash":"c67d4c8a082324e954bef340a3d6da37",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,5 +99,5 @@
     76.04727,
     43.16784000000001
 ],
-  "geometry": {"coordinates":[76.04727,43.16784000000001],"type":"Point"}
+  "geometry": {"coordinates":[76.04727,43.16784],"type":"Point"}
 }

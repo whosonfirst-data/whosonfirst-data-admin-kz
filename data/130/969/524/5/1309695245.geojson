@@ -63,7 +63,7 @@
         "wk:page":"Urunkhayka"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"fbb23412cdb589ffa6e4499ffdda30f9",
+    "wof:geomhash":"1889b0489a87e41230bcb99e1af5d9c8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     86.02729000000002,
     48.78578
 ],
-  "geometry": {"coordinates":[86.02729000000002,48.78578],"type":"Point"}
+  "geometry": {"coordinates":[86.02729,48.78578],"type":"Point"}
 }

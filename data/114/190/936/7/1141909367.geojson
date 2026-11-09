@@ -123,7 +123,7 @@
     "wof:concordances":{},
     "wof:country":"KZ",
     "wof:created":1499131070,
-    "wof:geomhash":"ff24af9f5d16d5ca00376f9d92885904",
+    "wof:geomhash":"efae1e34b2734f4df406c620a08e6805",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -148,5 +148,5 @@
     73.11500972381276,
     49.88497702951281
 ],
-  "geometry": {"coordinates":[73.11500972381276,49.88497702951281],"type":"Point"}
+  "geometry": {"coordinates":[73.11501,49.884977],"type":"Point"}
 }

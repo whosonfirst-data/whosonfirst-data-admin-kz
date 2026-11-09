@@ -45,7 +45,7 @@
         "wk:page":"Nechayev_Sad"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"90dcfabd3643cb05e386bcade0279ecb",
+    "wof:geomhash":"f43632f29bd82bea8339aca5af0dc78b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     79.0,
     45.13611
 ],
-  "geometry": {"coordinates":[79.0,45.13611],"type":"Point"}
+  "geometry": {"coordinates":[79,45.13611],"type":"Point"}
 }

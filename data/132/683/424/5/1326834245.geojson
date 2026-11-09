@@ -82,7 +82,7 @@
         "wk:page":"Karabulak%2C_Kazakhstan"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"d1b97254911e4d4598be2001aad542a0",
+    "wof:geomhash":"4c46c3c17fcb19ee1d03157697ef7659",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,5 +108,5 @@
     78.49221999999997,
     44.90889
 ],
-  "geometry": {"coordinates":[78.49221999999997,44.90889],"type":"Point"}
+  "geometry": {"coordinates":[78.49222,44.90889],"type":"Point"}
 }

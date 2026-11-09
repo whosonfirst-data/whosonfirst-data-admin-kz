@@ -65,7 +65,7 @@
         "wk:page":"Novoalekseevka"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"9895fc7b52d7968a7c314462fd5dd7f1",
+    "wof:geomhash":"c18501e550ef26ecb59b8a26943d183c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     77.23881999999998,
     43.41743
 ],
-  "geometry": {"coordinates":[77.23881999999998,43.41743],"type":"Point"}
+  "geometry": {"coordinates":[77.23882,43.41743],"type":"Point"}
 }

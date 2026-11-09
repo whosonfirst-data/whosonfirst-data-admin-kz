@@ -120,7 +120,7 @@
         "wk:page":"Satbayev_%28city%29"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"4a35204433e9fa266cb70fdf49be98c1",
+    "wof:geomhash":"75d497b24a8f6c6316eba34abbd0c515",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -146,5 +146,5 @@
     67.54111999999999,
     47.90409
 ],
-  "geometry": {"coordinates":[67.54111999999999,47.90409],"type":"Point"}
+  "geometry": {"coordinates":[67.54112,47.90409],"type":"Point"}
 }

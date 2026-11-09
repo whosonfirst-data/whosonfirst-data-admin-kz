@@ -49,7 +49,7 @@
         "wk:page":"Kishi_Qaraoy"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"a916ba07ee0432ae109fbb8babf1009e",
+    "wof:geomhash":"4ef1d08be7e0e8420ff9ee6f3dd17a09",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     77.04278000000002,
     43.54528
 ],
-  "geometry": {"coordinates":[77.04278000000002,43.54528],"type":"Point"}
+  "geometry": {"coordinates":[77.04278,43.54528],"type":"Point"}
 }

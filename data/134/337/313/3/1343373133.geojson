@@ -65,7 +65,7 @@
         "wk:page":"Birlik%2C_Kazakhstan"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"a32d59e14a9a62d60fd68f332a336759",
+    "wof:geomhash":"64553ff70b9852958645e1b9021a0b05",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     77.14166999999998,
     43.30806
 ],
-  "geometry": {"coordinates":[77.14166999999998,43.30806],"type":"Point"}
+  "geometry": {"coordinates":[77.14167,43.30806],"type":"Point"}
 }

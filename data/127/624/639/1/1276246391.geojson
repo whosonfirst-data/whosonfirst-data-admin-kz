@@ -50,7 +50,7 @@
         "wk:page":"Kamennoye_Plato"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"b0758c44ceee4b8fac37ca9b6917720c",
+    "wof:geomhash":"a836c0523665f307ecbf3a5a59fdc80a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     77.1654,
     43.51929000000001
 ],
-  "geometry": {"coordinates":[77.16540000000001,43.51929000000001],"type":"Point"}
+  "geometry": {"coordinates":[77.1654,43.51929],"type":"Point"}
 }

@@ -82,7 +82,7 @@
         "wk:page":"Mamlyutka"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"77804dc1e5287fb8ff06ddf6bd9653fc",
+    "wof:geomhash":"2b8802e96d4ad6e41835be5a32c47609",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,5 +108,5 @@
     68.53889000000001,
     54.93896
 ],
-  "geometry": {"coordinates":[68.53889000000001,54.93896],"type":"Point"}
+  "geometry": {"coordinates":[68.53889,54.93896],"type":"Point"}
 }

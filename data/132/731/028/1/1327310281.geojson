@@ -102,7 +102,7 @@
         "wk:page":"Ubagan_River"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"c1421e1892b52d5852698e53062c3ac4",
+    "wof:geomhash":"08065dd93f6463273f73802f293b6613",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,5 +128,5 @@
     64.74819000000001,
     54.31579
 ],
-  "geometry": {"coordinates":[64.74819000000001,54.31579],"type":"Point"}
+  "geometry": {"coordinates":[64.74819,54.31579],"type":"Point"}
 }

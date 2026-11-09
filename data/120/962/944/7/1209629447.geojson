@@ -67,7 +67,7 @@
         "wk:page":"Kaynazar"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"dcfed8d20322f04fb17b516482fc9fcb",
+    "wof:geomhash":"174e43675622bd3b0563fe3dcfa78fe2",
     "wof:hierarchy":[
         {
             "country_id":85632307,
@@ -90,5 +90,5 @@
     77.30724000000002,
     43.3696
 ],
-  "geometry": {"coordinates":[77.30724000000002,43.3696],"type":"Point"}
+  "geometry": {"coordinates":[77.30724,43.3696],"type":"Point"}
 }

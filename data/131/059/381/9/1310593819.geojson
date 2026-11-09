@@ -63,7 +63,7 @@
         "wk:page":"Utery"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"4480563a0745e6512f2a20817617a009",
+    "wof:geomhash":"f480dc2ba677d55f0f3a6abd97776546",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     48.99444,
     46.48889000000001
 ],
-  "geometry": {"coordinates":[48.99444,46.48889000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.99444,46.48889],"type":"Point"}
 }

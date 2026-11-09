@@ -53,7 +53,7 @@
         "wk:page":"Ekiasha"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"daa5559f6fd6b0d3b5ffe7e3cb3abfb8",
+    "wof:geomhash":"4d53987d06cde9620b309e0fb8751bff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     80.14010999999998,
     45.38394
 ],
-  "geometry": {"coordinates":[80.14010999999998,45.38394],"type":"Point"}
+  "geometry": {"coordinates":[80.14011,45.38394],"type":"Point"}
 }

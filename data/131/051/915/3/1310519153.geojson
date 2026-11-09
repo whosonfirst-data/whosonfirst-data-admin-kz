@@ -74,7 +74,7 @@
         "wk:page":"Altynemel"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"98e587ac1ae6423a7a5c166aa76105ae",
+    "wof:geomhash":"88779d72158a1801ef5754155acee0c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,5 +100,5 @@
     78.44055999999998,
     44.33583
 ],
-  "geometry": {"coordinates":[78.44055999999998,44.33583],"type":"Point"}
+  "geometry": {"coordinates":[78.44056,44.33583],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Koksu"
     },
     "wof:country":"KZ",
-    "wof:geomhash":"2077aa75f4b0c03c47e2850b3673b715",
+    "wof:geomhash":"d53b10b4f10204ef9a8c866d6fdae7b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     77.94639000000002,
     45.00278
 ],
-  "geometry": {"coordinates":[77.94639000000002,45.00278],"type":"Point"}
+  "geometry": {"coordinates":[77.94639,45.00278],"type":"Point"}
 }
