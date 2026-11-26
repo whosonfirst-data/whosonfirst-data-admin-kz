@@ -36,7 +36,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672921,
+        9895008367,
         1108785405
     ],
     "wof:breaches":[],
@@ -51,11 +51,11 @@
             "country_id":85632307,
             "county_id":1108785405,
             "locality_id":1343771603,
-            "region_id":85672921
+            "region_id":9895008367
         }
     ],
     "wof:id":1343771603,
-    "wof:lastmodified":1566591233,
+    "wof:lastmodified":1795731980,
     "wof:name":"Kokpakhty",
     "wof:parent_id":1108785405,
     "wof:placetype":"locality",

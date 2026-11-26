@@ -116,7 +116,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672905
+        9895008368
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -132,13 +132,13 @@
             "continent_id":102191569,
             "country_id":85632307,
             "county_id":1108785515,
-            "region_id":85672905
+            "region_id":9895008368
         }
     ],
     "wof:id":1108785515,
-    "wof:lastmodified":1695886676,
+    "wof:lastmodified":1795731980,
     "wof:name":"Ulytauskiy",
-    "wof:parent_id":85672905,
+    "wof:parent_id":9895008368,
     "wof:placetype":"county",
     "wof:placetype_local":"rayon",
     "wof:population":20400,

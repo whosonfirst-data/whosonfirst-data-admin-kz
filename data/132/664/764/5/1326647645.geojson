@@ -43,7 +43,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672921,
+        9895008367,
         1108785417
     ],
     "wof:breaches":[],
@@ -59,11 +59,11 @@
             "country_id":85632307,
             "county_id":1108785417,
             "locality_id":1326647645,
-            "region_id":85672921
+            "region_id":9895008367
         }
     ],
     "wof:id":1326647645,
-    "wof:lastmodified":1566591163,
+    "wof:lastmodified":1795731980,
     "wof:name":"Aqbalyq",
     "wof:parent_id":1108785417,
     "wof:placetype":"locality",

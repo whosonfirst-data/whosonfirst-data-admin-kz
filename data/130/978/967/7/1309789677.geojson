@@ -43,7 +43,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672927,
+        9895008369,
         1108785369
     ],
     "wof:breaches":[],
@@ -58,11 +58,11 @@
             "country_id":85632307,
             "county_id":1108785369,
             "locality_id":1309789677,
-            "region_id":85672927
+            "region_id":9895008369
         }
     ],
     "wof:id":1309789677,
-    "wof:lastmodified":1566591947,
+    "wof:lastmodified":1795731980,
     "wof:name":"Yel'tay",
     "wof:parent_id":1108785369,
     "wof:placetype":"locality",

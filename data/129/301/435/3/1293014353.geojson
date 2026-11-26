@@ -60,7 +60,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672921,
+        9895008367,
         1108785423
     ],
     "wof:breaches":[],
@@ -75,11 +75,11 @@
             "country_id":85632307,
             "county_id":1108785423,
             "locality_id":1293014353,
-            "region_id":85672921
+            "region_id":9895008367
         }
     ],
     "wof:id":1293014353,
-    "wof:lastmodified":1566591351,
+    "wof:lastmodified":1795731980,
     "wof:name":"Arqarly",
     "wof:parent_id":1108785423,
     "wof:placetype":"locality",

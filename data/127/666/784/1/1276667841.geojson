@@ -90,7 +90,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672915,
+        9895008366,
         1108785641
     ],
     "wof:breaches":[],
@@ -105,11 +105,11 @@
             "country_id":85632307,
             "county_id":1108785641,
             "locality_id":1276667841,
-            "region_id":85672915
+            "region_id":9895008366
         }
     ],
     "wof:id":1276667841,
-    "wof:lastmodified":1566591478,
+    "wof:lastmodified":1795731980,
     "wof:name":"Isa",
     "wof:parent_id":1108785641,
     "wof:placetype":"locality",

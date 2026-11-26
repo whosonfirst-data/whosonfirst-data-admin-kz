@@ -65,7 +65,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672927
+        9895008369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,13 +80,13 @@
             "continent_id":102191569,
             "country_id":85632307,
             "county_id":1108785601,
-            "region_id":85672927
+            "region_id":9895008369
         }
     ],
     "wof:id":1108785601,
-    "wof:lastmodified":1695886777,
+    "wof:lastmodified":1795731980,
     "wof:name":"Sayramskiy",
-    "wof:parent_id":85672927,
+    "wof:parent_id":9895008369,
     "wof:placetype":"county",
     "wof:placetype_local":"rayon",
     "wof:population":217500,

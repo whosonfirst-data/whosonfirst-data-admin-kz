@@ -53,7 +53,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672921,
+        9895008367,
         1108785405
     ],
     "wof:breaches":[],
@@ -69,11 +69,11 @@
             "country_id":85632307,
             "county_id":1108785405,
             "locality_id":1326744247,
-            "region_id":85672921
+            "region_id":9895008367
         }
     ],
     "wof:id":1326744247,
-    "wof:lastmodified":1566591102,
+    "wof:lastmodified":1795731980,
     "wof:name":"Aynabulak",
     "wof:parent_id":1108785405,
     "wof:placetype":"locality",

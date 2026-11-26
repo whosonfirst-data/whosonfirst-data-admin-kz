@@ -66,7 +66,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672921,
+        9895008367,
         1108785407
     ],
     "wof:breaches":[],
@@ -82,11 +82,11 @@
             "country_id":85632307,
             "county_id":1108785407,
             "locality_id":1326639493,
-            "region_id":85672921
+            "region_id":9895008367
         }
     ],
     "wof:id":1326639493,
-    "wof:lastmodified":1566591169,
+    "wof:lastmodified":1795731980,
     "wof:name":"Qyzylaghash",
     "wof:parent_id":1108785407,
     "wof:placetype":"locality",

@@ -214,7 +214,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672905
+        9895008368
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -231,13 +231,13 @@
             "continent_id":102191569,
             "country_id":85632307,
             "locality_id":421168879,
-            "region_id":85672905
+            "region_id":9895008368
         }
     ],
     "wof:id":421168879,
-    "wof:lastmodified":1690938448,
+    "wof:lastmodified":1795731980,
     "wof:name":"Karazhal",
-    "wof:parent_id":85672905,
+    "wof:parent_id":9895008368,
     "wof:placetype":"locality",
     "wof:population":13807,
     "wof:population_rank":6,

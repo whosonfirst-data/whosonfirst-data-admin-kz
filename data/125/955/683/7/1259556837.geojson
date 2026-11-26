@@ -36,7 +36,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672915,
+        9895008366,
         1108785467
     ],
     "wof:breaches":[],
@@ -51,11 +51,11 @@
             "country_id":85632307,
             "county_id":1108785467,
             "locality_id":1259556837,
-            "region_id":85672915
+            "region_id":9895008366
         }
     ],
     "wof:id":1259556837,
-    "wof:lastmodified":1566592145,
+    "wof:lastmodified":1795731980,
     "wof:name":"Baulyk",
     "wof:parent_id":1108785467,
     "wof:placetype":"locality",

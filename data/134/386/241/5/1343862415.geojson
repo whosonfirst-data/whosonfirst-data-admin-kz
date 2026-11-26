@@ -43,7 +43,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672921,
+        9895008367,
         1108785415
     ],
     "wof:breaches":[],
@@ -58,11 +58,11 @@
             "country_id":85632307,
             "county_id":1108785415,
             "locality_id":1343862415,
-            "region_id":85672921
+            "region_id":9895008367
         }
     ],
     "wof:id":1343862415,
-    "wof:lastmodified":1566591302,
+    "wof:lastmodified":1795731980,
     "wof:name":"Aqzhar",
     "wof:parent_id":1108785415,
     "wof:placetype":"locality",

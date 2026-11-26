@@ -117,7 +117,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672905,
+        9895008368,
         1108785597
     ],
     "wof:breaches":[],
@@ -132,11 +132,11 @@
             "country_id":85632307,
             "county_id":1108785597,
             "locality_id":1226031861,
-            "region_id":85672905
+            "region_id":9895008368
         }
     ],
     "wof:id":1226031861,
-    "wof:lastmodified":1566592254,
+    "wof:lastmodified":1795731980,
     "wof:name":"Betpak-Dala",
     "wof:parent_id":1108785597,
     "wof:placetype":"locality",

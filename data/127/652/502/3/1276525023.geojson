@@ -44,7 +44,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672905,
+        9895008368,
         1108785597
     ],
     "wof:breaches":[],
@@ -59,11 +59,11 @@
             "country_id":85632307,
             "county_id":1108785597,
             "locality_id":1276525023,
-            "region_id":85672905
+            "region_id":9895008368
         }
     ],
     "wof:id":1276525023,
-    "wof:lastmodified":1566591519,
+    "wof:lastmodified":1795731980,
     "wof:name":"Kyzylzhar",
     "wof:parent_id":1108785597,
     "wof:placetype":"locality",

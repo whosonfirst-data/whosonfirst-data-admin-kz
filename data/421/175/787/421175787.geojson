@@ -429,7 +429,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672915
+        9895008366
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -447,13 +447,13 @@
             "continent_id":102191569,
             "country_id":85632307,
             "locality_id":421175787,
-            "region_id":85672915
+            "region_id":9895008366
         }
     ],
     "wof:id":421175787,
-    "wof:lastmodified":1690938468,
+    "wof:lastmodified":1795731980,
     "wof:name":"Semey",
-    "wof:parent_id":85672915,
+    "wof:parent_id":9895008366,
     "wof:placetype":"locality",
     "wof:population":299264,
     "wof:population_rank":10,

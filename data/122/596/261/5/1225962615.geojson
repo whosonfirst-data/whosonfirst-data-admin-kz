@@ -72,7 +72,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672915,
+        9895008366,
         1108785641
     ],
     "wof:breaches":[],
@@ -87,11 +87,11 @@
             "country_id":85632307,
             "county_id":1108785641,
             "locality_id":1225962615,
-            "region_id":85672915
+            "region_id":9895008366
         }
     ],
     "wof:id":1225962615,
-    "wof:lastmodified":1636495719,
+    "wof:lastmodified":1795731980,
     "wof:name":"Altay",
     "wof:parent_id":1108785641,
     "wof:placetype":"locality",
