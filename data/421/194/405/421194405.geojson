@@ -97,7 +97,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672921
+        9895008367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,13 +114,13 @@
             "continent_id":102191569,
             "country_id":85632307,
             "locality_id":421194405,
-            "region_id":85672921
+            "region_id":9895008367
         }
     ],
     "wof:id":421194405,
-    "wof:lastmodified":1690938451,
+    "wof:lastmodified":1795731980,
     "wof:name":"Saryozek",
-    "wof:parent_id":85672921,
+    "wof:parent_id":9895008367,
     "wof:placetype":"locality",
     "wof:population":13930,
     "wof:population_rank":6,

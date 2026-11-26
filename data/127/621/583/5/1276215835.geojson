@@ -63,7 +63,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672927,
+        9895008369,
         1108785607
     ],
     "wof:breaches":[],
@@ -78,11 +78,11 @@
             "country_id":85632307,
             "county_id":1108785607,
             "locality_id":1276215835,
-            "region_id":85672927
+            "region_id":9895008369
         }
     ],
     "wof:id":1276215835,
-    "wof:lastmodified":1566591452,
+    "wof:lastmodified":1795731980,
     "wof:name":"Voroshilovo",
     "wof:parent_id":1108785607,
     "wof:placetype":"locality",

@@ -39,7 +39,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672915
+        9895008366
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,13 @@
             "continent_id":102191569,
             "country_id":85632307,
             "locality_id":890441319,
-            "region_id":85672915
+            "region_id":9895008366
         }
     ],
     "wof:id":890441319,
-    "wof:lastmodified":1566591999,
+    "wof:lastmodified":1795731980,
     "wof:name":"Suykbulak",
-    "wof:parent_id":85672915,
+    "wof:parent_id":9895008366,
     "wof:placetype":"locality",
     "wof:population":1244,
     "wof:population_rank":3,

@@ -60,7 +60,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672915,
+        9895008366,
         1108785469
     ],
     "wof:breaches":[],
@@ -75,11 +75,11 @@
             "country_id":85632307,
             "county_id":1108785469,
             "locality_id":1242688017,
-            "region_id":85672915
+            "region_id":9895008366
         }
     ],
     "wof:id":1242688017,
-    "wof:lastmodified":1566592035,
+    "wof:lastmodified":1795731980,
     "wof:name":"Komintern",
     "wof:parent_id":1108785469,
     "wof:placetype":"locality",

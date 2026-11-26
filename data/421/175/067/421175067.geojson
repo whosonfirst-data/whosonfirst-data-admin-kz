@@ -89,7 +89,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672915
+        9895008366
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,13 +106,13 @@
             "continent_id":102191569,
             "country_id":85632307,
             "locality_id":421175067,
-            "region_id":85672915
+            "region_id":9895008366
         }
     ],
     "wof:id":421175067,
-    "wof:lastmodified":1690938468,
+    "wof:lastmodified":1795731980,
     "wof:name":"Georgievka",
-    "wof:parent_id":85672915,
+    "wof:parent_id":9895008366,
     "wof:placetype":"locality",
     "wof:population":22047,
     "wof:population_rank":7,

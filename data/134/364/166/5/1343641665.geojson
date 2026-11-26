@@ -51,7 +51,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672905,
+        9895008368,
         1108785515
     ],
     "wof:breaches":[],
@@ -66,11 +66,11 @@
             "country_id":85632307,
             "county_id":1108785515,
             "locality_id":1343641665,
-            "region_id":85672905
+            "region_id":9895008368
         }
     ],
     "wof:id":1343641665,
-    "wof:lastmodified":1566591210,
+    "wof:lastmodified":1795731980,
     "wof:name":"Kalinino",
     "wof:parent_id":1108785515,
     "wof:placetype":"locality",

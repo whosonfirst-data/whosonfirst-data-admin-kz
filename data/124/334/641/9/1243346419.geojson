@@ -47,7 +47,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672915,
+        9895008366,
         1108785463
     ],
     "wof:breaches":[],
@@ -62,11 +62,11 @@
             "country_id":85632307,
             "county_id":1108785463,
             "locality_id":1243346419,
-            "region_id":85672915
+            "region_id":9895008366
         }
     ],
     "wof:id":1243346419,
-    "wof:lastmodified":1566592077,
+    "wof:lastmodified":1795731980,
     "wof:name":"Tasbulak",
     "wof:parent_id":1108785463,
     "wof:placetype":"locality",

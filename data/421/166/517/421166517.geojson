@@ -121,7 +121,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672921,
+        9895008367,
         85632695,
         85669753
     ],
@@ -140,7 +140,7 @@
             "continent_id":102191569,
             "country_id":85632307,
             "locality_id":421166517,
-            "region_id":85672921
+            "region_id":9895008367
         },
         {
             "continent_id":102191569,
@@ -150,7 +150,7 @@
         }
     ],
     "wof:id":421166517,
-    "wof:lastmodified":1690938450,
+    "wof:lastmodified":1795731980,
     "wof:name":"Khorgos",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

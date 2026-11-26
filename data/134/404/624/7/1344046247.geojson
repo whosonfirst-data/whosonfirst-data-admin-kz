@@ -42,7 +42,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672927,
+        9895008369,
         1108785607
     ],
     "wof:breaches":[],
@@ -57,11 +57,11 @@
             "country_id":85632307,
             "county_id":1108785607,
             "locality_id":1344046247,
-            "region_id":85672927
+            "region_id":9895008369
         }
     ],
     "wof:id":1344046247,
-    "wof:lastmodified":1566591285,
+    "wof:lastmodified":1795731980,
     "wof:name":"Kaytpas - Dva",
     "wof:parent_id":1108785607,
     "wof:placetype":"locality",

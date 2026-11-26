@@ -46,7 +46,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672905,
+        9895008366,
         1108785507
     ],
     "wof:breaches":[],
@@ -61,11 +61,11 @@
             "country_id":85632307,
             "county_id":1108785507,
             "locality_id":1326500529,
-            "region_id":85672905
+            "region_id":9895008366
         }
     ],
     "wof:id":1326500529,
-    "wof:lastmodified":1566591119,
+    "wof:lastmodified":1795731980,
     "wof:name":"Doghalang",
     "wof:parent_id":1108785507,
     "wof:placetype":"locality",

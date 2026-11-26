@@ -120,7 +120,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672927,
+        9895008369,
         1108785595
     ],
     "wof:breaches":[],
@@ -135,11 +135,11 @@
             "country_id":85632307,
             "county_id":1108785595,
             "locality_id":1259477047,
-            "region_id":85672927
+            "region_id":9895008369
         }
     ],
     "wof:id":1259477047,
-    "wof:lastmodified":1566592160,
+    "wof:lastmodified":1795731980,
     "wof:name":"Frunze",
     "wof:parent_id":1108785595,
     "wof:placetype":"locality",

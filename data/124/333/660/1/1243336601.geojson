@@ -70,7 +70,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672915,
+        9895008366,
         1108785467
     ],
     "wof:breaches":[],
@@ -85,11 +85,11 @@
             "country_id":85632307,
             "county_id":1108785467,
             "locality_id":1243336601,
-            "region_id":85672915
+            "region_id":9895008366
         }
     ],
     "wof:id":1243336601,
-    "wof:lastmodified":1566592078,
+    "wof:lastmodified":1795731980,
     "wof:name":"Arshaly",
     "wof:parent_id":1108785467,
     "wof:placetype":"locality",

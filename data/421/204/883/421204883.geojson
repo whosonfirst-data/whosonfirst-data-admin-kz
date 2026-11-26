@@ -368,7 +368,7 @@
     "wof:belongsto":[
         102191569,
         85632307,
-        85672905
+        9895008368
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -386,13 +386,13 @@
             "continent_id":102191569,
             "country_id":85632307,
             "locality_id":421204883,
-            "region_id":85672905
+            "region_id":9895008368
         }
     ],
     "wof:id":421204883,
-    "wof:lastmodified":1690938461,
+    "wof:lastmodified":1795731980,
     "wof:name":"Dzhezkazgan",
-    "wof:parent_id":85672905,
+    "wof:parent_id":9895008368,
     "wof:placetype":"locality",
     "wof:population":104357,
     "wof:population_rank":9,
